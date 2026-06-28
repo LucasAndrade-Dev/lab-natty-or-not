@@ -25,7 +25,7 @@
 Os dados da temporada mostram que Vinicius Junior é um "gerador de caos controlado". Ele não se destaca apenas pela velocidade e pelo drible absurdo (mais de 3,4 por partida), mas sim pela sua alta taxa de passes decisivos (79 no total) e participação direta em gols (0,66 por jogo), tornando-se peça-chave do Real Madrid.
 
 ### 🎨 Arte Visual Gerada por IA
-![Vini Jr. e Dados](vini-jr.png)
+![Vini Jr. e Dados](./vini-jr.png)
 
 ## 💭 Reflexão
 Criar este projeto mostrou como as IAs Generativas facilitam a sintetização de dados e a criação de conceitos visuais de forma rápida, ajudando a criar apresentações esportivas mais ricas mesmo para quem está começando na área.nerative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
